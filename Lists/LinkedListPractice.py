@@ -119,3 +119,14 @@ print (ll.get_position(1).value)
 print (ll.get_position(2).value)
 # Should print 3 now
 print (ll.get_position(3).value)
+
+
+"""
+Average time complexity = Worst time complexity
+n - list size
+Access: O(n)
+Search: O(n)
+
+Insertion: O(1)
+Deletion: O(1)
+"""
